@@ -1,6 +1,3 @@
-#
-# ECE356 - Lab 4
-# Fall 2020
 # This script will create 1 table for each classification task (this can be exported to csv after)
 # Task A's table: SelectedFeaturesA
 # Task B's table: SelectedFeaturesB
