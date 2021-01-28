@@ -11,7 +11,7 @@
 * Certain awards that did not exist in the 19th and 20th century were dropped
 * Null values were converted to 0
 * While the accuracy for both Tasks was good, the precision for the two classes within each Task was not as good and a second iteration was conducted.
-2. To improve the model a Gini importance threshold of 0.05 was used for every feature. Additionally many features had an importance of 0 and were dropped for this iteration.
+2. To improve the model a Gini importance threshold of 0.05 was used for every feature. Additionally many features had an importance of 0 and were dropped for subsequent iteration.
 * Only awards that are deemed good indicators for the HOF were included.
 * Postseason data was also included.
 * Another feature that was included was total active days. Players that have a long career are more likely to be nominated and inducted into the HOF.
